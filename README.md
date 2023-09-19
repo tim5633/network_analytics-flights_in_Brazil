@@ -1,2 +1,2 @@
 # Network_Analytics
-Mainly using networkx to display the Network Flights in Brazil Before, At, and After Covid Pandemic
+Utilising NetworkX to visualise and analyse the intricacies of Brazil's flight network across different phases: pre-COVID, during the pandemic, and post-COVID.
